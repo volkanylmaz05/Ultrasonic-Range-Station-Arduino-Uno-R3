@@ -23,6 +23,5 @@ If an object comes closer than 20cm, the LED and Buzzer will turn on.
 4. Upload the code and open the Serial Monitor (9600 baud).
 ----------------------------------------------------------------
 ## Circuit
-![Circuit Diagram](circuit_diagram.png)
-
-Made by: Volkan Yılmaz
+Made<img width="3895" height="3092" alt="Untitled Sketch 2_bb" src="https://github.com/user-attachments/assets/9e0bf8cb-7e2d-49be-8031-c989848ed64a" />
+ by: Volkan Yılmaz
